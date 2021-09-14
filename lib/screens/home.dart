@@ -30,7 +30,7 @@ class _HomeScreenState extends State<HomeScreen> {
     
     return Scaffold(
       appBar: AppBar(
-        title: Text('App'),
+        title: Text('Teste'),
       ),
       body: PageView(
         controller: pc,
